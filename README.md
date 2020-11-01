@@ -1,10 +1,10 @@
 ### Witam cię serdecznie na moim profilu! 👋
 
-Jestem studentem pierwszego roku Informatyki i Systemów inteligentnych na AGH
+Jestem studentem pierwszego roku Informatyki i Systemów inteligentnych
 
 Kilka informacji o mnie:
 - 🔭 Obecnie pracuję nad stworzeniem gry w Pythonie
-- 🌱 Studia: AGH 
+- 🌱 UCzelnia, na której studiuję: AGH 
 - 💬 O co można mnie pytać: o cokolwiek 
 - 📫 Jak się ze mną skontaktować: tomek2000.2000@tlen.pl
 - 😄 Energia do działania: 100%

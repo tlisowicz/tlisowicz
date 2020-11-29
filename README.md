@@ -9,6 +9,9 @@ Kilka informacji o mnie:
 - 📫 Jak się ze mną skontaktować: tomek2000.2000@tlen.pl
 - 😄 Energia do działania: 100%
 
+Link do bardzo ciekawego artykułu: 
+https://github.com/tlisowicz/umap
+
 <!--
 **tlisowicz/tlisowicz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

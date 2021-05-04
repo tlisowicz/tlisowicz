@@ -1,13 +1,12 @@
 ### Witam cię serdecznie na moim profilu! 👋
 
-Jestem studentem pierwszego roku Informatyki i Systemów inteligentnych
+Nazywam się Tomasz. Od 2020 roku studiuję Informatykę i Systemy inteligentne na AGH. Na moim profilu można znaleźć repozytoria z zadaniami z nauki programowania.
+W przyszłości postaram się wrzucić tu również projeky, które przyjdzie mi realizować na uczelni 😄.
 
 Kilka informacji o mnie:
-- 🔭 Obecnie pracuję nad stworzeniem gry w Pythonie
-- 🌱 Uczelnia, na której studiuję: AGH 
-- 💬 O co można mnie pytać: o cokolwiek 
-- 📫 Jak się ze mną skontaktować: tomek2000.2000@tlen.pl
-- 😄 Energia do działania: 100%
+- 💻 Pasjonuję się grami komputerowymi 
+- 🌱 Ukończyłem Technikum Łączności i uzyskałem tytuł technika teleinformatyka 
+- 📫 Jak się ze mną skontaktować: tomek2000.2000@tlen.pl | tlisowicz@student.agh.edu.pl
 
 
 

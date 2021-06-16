@@ -6,7 +6,7 @@ W przyszłości postaram się wrzucić tu również projeky, które przyjdzie mi
 Kilka informacji o mnie:
 - 💻 Pasjonuję się grami komputerowymi 
 - 🌱 Ukończyłem Technikum Łączności i uzyskałem tytuł technika teleinformatyka 
-- 📫 Jak się ze mną skontaktować: tomek2000.2000@tlen.pl | tlisowicz@student.agh.edu.pl
+- 📫 Jak się ze mną skontaktować: t.lisowicz00@gmail.com | tlisowicz@student.agh.edu.pl | tomek2000.2000@tlen.pl
 
 
 

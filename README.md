@@ -1,6 +1,6 @@
 ### Witam serdecznie na moim profilu! 👋
 
-Mam na imę Tomasz. Od 2020 roku studiuję Informatykę i Systemy inteligentne na AGH. Na moim profilu można znaleźć repozytoria z zadaniami z nauki programowania oraz projekty realizuwane na uczelni.
+Mam na imę Tomasz. Od 2020 roku studiuję Informatykę i Systemy inteligentne na AGH. Na moim profilu można znaleźć repozytoria z zadaniami z nauki programowania oraz projekty realizowane na uczelni.
 
 Kilka informacji o mnie:
 - 💻 Pasjonuję się grami komputerowymi 
